@@ -1,0 +1,58 @@
+body{
+    height: 500px;
+    width: 500px;
+    background-color:white;
+    padding: 5px;
+}
+header {
+    width: 500px;
+    height: 40px;
+    background-color: red;
+    margin: 2px;
+    border: thick;
+    
+   
+}
+nav{
+    width: inherit;
+    height: 20px;
+    background-color: blue;
+    margin: 2px;
+    border: thick;
+}
+aside {
+    width: 100px;
+    height: 300px;
+    background-color: green;
+    margin: 2px;
+    border: thick;
+    border-right: thick;
+    
+}
+section{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 113px;
+    top: 77px;
+    background-color: indianred;
+    margin: 2px;
+    border: thick;
+   
+}
+article{
+    width: 250px;
+    height: 70px;
+    background-color: violet;
+    position: absolute;
+    left: 90px;
+    bottom: 200px;
+}
+.one {
+    width: 250px;
+    height: 70px;
+    background-color: violet;
+    position: absolute;
+    left: 90px;
+    bottom: 100px;
+}
