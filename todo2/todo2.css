@@ -1,0 +1,32 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 767px;
+    width: 300px;
+    height: 300px;
+    border-style: groove;
+    background-color: white;
+    color: black;
+}
+img{
+    border-radius: 100%;
+    position: absolute;
+    left: 250px
+    
+}
+.one{
+    font-size: larger;
+    font-weight: bolder;
+}
+.two{
+    text-transform: capitalize;
+    position: absolute;
+    top: 50px;
+}
+.three{
+    position: absolute;
+    top: 160px;
+}
+.four{
+    position: absolute;
+    top: 90px;
+}
