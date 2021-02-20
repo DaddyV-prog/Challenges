@@ -1,0 +1,47 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width: 500px;
+    height: 500px;
+}
+ul{
+    font-family: cursive;
+    text-transform: capitalize;
+    text-align: right;
+    background-color: black;
+}
+li{
+    display: inline;
+    padding: 5px;
+    color: red;
+}
+p{
+    font-family: fantasy;
+    font-size: medium;
+    font-style: normal;
+    color: rgba(224, 12, 23, 0.966);
+    opacity: 1em;
+    position: absolute;
+    top: 5px;
+    
+}
+form{
+    font-family: cursive;
+    text-transform: capitalize;
+    position: absolute;
+    top: 15px;
+    left:150px;
+}
+    
+select{
+    font-family: fantasy;
+    font-size: small;
+    font-weight: bold;
+    color: rgba(224, 12, 23, 0.966);
+    opacity: 1em;
+    
+}
+#one{
+    background-color: black;
+}
