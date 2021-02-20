@@ -1,0 +1,161 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 500px;
+    width: 700px;
+    color:white;
+    background-image: url(data.jpg);   
+    background-repeat: no-repeat;
+    background-size: 720px 400px;
+}
+#head{
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bolder;
+    position: absolute;
+    top: 0px;
+    left: 450px;
+    text-transform: uppercase;
+}
+p.one{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    top: 100px;
+    left: 450px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+p.two{
+    font-weight: lighter;
+    color: black;
+    font-size: small;
+    position: absolute;
+    top: 125px;
+    left: 470px;
+}
+p.three{
+    font-weight: lighter;
+    color:white;
+    font-size: small;
+    position: absolute;
+    top: 160px;
+    left: 540px;
+}
+p.four{
+    font-weight: lighter;
+    color: black;
+    font-size: small;
+    position: absolute;
+    top: 175px;
+    left: 470px;
+}
+p.five{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    border-style: hidden;
+    position: absolute;
+    top: 200px;
+    left: 470px;
+    padding: 15px;
+    font-size: smaller;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+}
+p.six{
+    background-color: black;
+    color: white;
+    font-size: x-small;
+    border-style: hidden;
+    padding: 10px;
+    border-radius: 2px;
+    position: absolute;
+    top: 280px;
+    left: 470px;
+    width: 200px;
+    text-align: center;
+}
+#mtn{
+    background-color: yellow;
+    opacity: 50%;
+    width: 100px;
+    border-radius: 10px;
+    position: absolute;
+    top: 30px;
+}
+#airtel{
+    background-color: red;
+    width: 100px;
+    opacity: 50%;
+    border-radius: 10px;
+    position: absolute;
+    top: 220px;
+}
+.mobile{
+    background-color: rgb(11, 245, 89);
+    width: 100px;
+    opacity: 50%;
+    border-radius: 10px;
+    position: absolute;
+    top: 220px;
+    left: 170px;
+}
+.gl{
+    background-color: green;
+    width: 100px;
+    opacity: 50%;
+    border-radius: 10px;
+    position: absolute;
+    top: 30px;
+    left: 170px;
+    
+}
+.mtn{
+    border-style: hidden;
+    background-color: yellow;
+    padding: 5px;
+    font-size: xx-small;
+    width: 30px;
+    opacity: 50%;
+    position: absolute;
+    top: 28px;
+    border-radius: 30px;
+
+}
+.air{
+    border-style: hidden;
+    background-color:red;
+    padding: 5px;
+    font-size: xx-small;
+    width: 30px;
+    opacity: 50%;
+    position: absolute;
+    top: 218px;
+    border-radius: 30px;
+}
+.nine{
+    border-style: hidden;
+    background-color:green;
+    padding: 5px;
+    font-size: xx-small;
+    width: 30px;
+    opacity: 50%;
+    position: absolute;
+    top: 220px;
+    left: 170px;
+    border-radius: 30px;
+}
+.gloo{
+    border-style: hidden;
+    background-color:green;
+    padding: 5px;
+    font-size: xx-small;
+    width: 30px;
+    opacity: 50%;
+    position: absolute;
+    top: 30px;
+    left: 170px;
+    border-radius: 30px;
+}
